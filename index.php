@@ -1,4 +1,6 @@
-<html lang="en" class="sr js anime-ready"><head><script src="chrome-extension://jfkjbfhcfaoldhgbnkekkoheganchiea/scripts/injected.js"></script>
+<html lang="en" class="sr js anime-ready">
+    <head>
+    
     
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
